@@ -1,4 +1,4 @@
 # OfficialBejanese
 An open universal language designed to help people express themselves regardless of ability or communication style.
 
-!(OfficialBajanese.png)
+!(Bajanese brand identity mood board.png)
